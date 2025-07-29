@@ -6,4 +6,5 @@ This is a simple IDE I made where you can add items and see them update live.
 
 
 
-![Capture](https://github.com/user-attachments/assets/6e03bb10-2ae2-4715-95c2-c904d156ddd9)
+
+![Capture2](https://github.com/user-attachments/assets/28651820-4e12-4b0a-bc66-1a371745468a)
